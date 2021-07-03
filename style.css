@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-color{
+    color: orange;
+}
+p{
+    text-align: justify;
+}
+section{
+    display: flex;
+    padding-left: 10px;
+}
+.helf{
+    width: 50%;  
+}
+.helf div{
+margin: 20px;
+}
+.helf img{
+    width: 50%;
+    margin-left: 20px;
+}
+.hireme{
+    text-decoration: none;
+    background-image: linear-gradient(orange rgb(255, 115, 0));
+    padding: 10px 40px;
+    border-radius: 5px;
+}
