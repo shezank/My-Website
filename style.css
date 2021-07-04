@@ -25,7 +25,7 @@ p{
 }
 .hireme{
     text-decoration: none;
-    background-image: linear-gradient(orange rgb(255, 115, 0));
+    background-image: linear-gradient(#f79503, #dff703) ;
     padding: 10px 40px;
     border-radius: 5px;
     color: black;
